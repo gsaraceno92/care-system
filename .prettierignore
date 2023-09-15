@@ -1,0 +1,16 @@
+src/test/*
+tsconfig.json
+package-lock.json
+yarn.lock
+.prettierrc
+.eslintrc.js
+.babelrc
+.gitignore
+.env
+.env.example
+.env.test
+.env.development
+.env.production
+.env.staging
+.env.testing
+.env.development.local
