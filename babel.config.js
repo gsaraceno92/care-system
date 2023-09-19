@@ -14,6 +14,7 @@ module.exports = function (api) {
             "@components": "./src/components",
           },
         },
+        "nativewind/babel",
       ],
     ],
   };
