@@ -36,3 +36,7 @@ yarn-error.*
 
 .vscode/
 node_modules/
+
+# React Native - Android
+android/.gradle/
+android/app/build/
