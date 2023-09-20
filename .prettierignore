@@ -3,6 +3,7 @@ tsconfig.json
 package-lock.json
 yarn.lock
 .prettierrc
+.prettierrc.js
 .eslintrc.js
 .babelrc
 .gitignore
@@ -14,3 +15,4 @@ yarn.lock
 .env.staging
 .env.testing
 .env.development.local
+.eslintrc.js
